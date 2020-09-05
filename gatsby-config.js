@@ -5,7 +5,7 @@
  */
 
 module.exports = {
-  siteMetaData : {
+  siteMetadata : {
     author:'Karan Tewari',
     title: 'Demo Project'
   },
