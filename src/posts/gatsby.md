@@ -1,6 +1,6 @@
 ---
-title:"The great gatsby bootcamp"
-data:"2020-09-05"
+title: "The great gatsby bootcamp"
+date: "2020-09-05"
 ---
 
 I just created this blog
