@@ -8,7 +8,7 @@ const Header = () => {
     query{
       site{
         siteMetadata{
-          title
+          title 
         }
       }
     }
